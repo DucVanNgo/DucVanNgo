@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+🕵🏻 Currently looking for data analyst / data scientist position in 🇩🇪
+
 🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon
 
 Things I can learned so far:
 
-▷ Python
+▷ Python 🐍
 ◦ Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow
 ◦ Data Visualisation
+
 ▷ SQL
+
 ▷ Machine Learning: 
-◦ Supervised Learning: Linear Models, Logistic Regression, Support Vector Machines, Stochastic Gradient Descent, Nearest Neighbours, Naive Bayes, Decision Trees, Random Forest, XGBoost 
+◦ Supervised Learning: Linear Models, Logistic Regression, Support Vector Machines, Stochastic Gradient Descent, Nearest Neighbours, Naive Bayes, Decision Trees, Random Forest, XGBoost
 ◦ Unsupervised Learning: K-Means, Principal Component Analysis
+
 ▷ Deep Learning: 
 ◦ Image Recognition, Neural Networks (CNN + RNN) , Natural Language Processing
 ▷ Data Engineering + Cloud Computing: 
