@@ -7,18 +7,23 @@
 Things I can learned so far:
 
 ▷ Python 🐍
+
 ◦ Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow
 ◦ Data Visualisation
 
 ▷ SQL
 
 ▷ Machine Learning: 
+
 ◦ Supervised Learning: Linear Models, Logistic Regression, Support Vector Machines, Stochastic Gradient Descent, Nearest Neighbours, Naive Bayes, Decision Trees, Random Forest, XGBoost
 ◦ Unsupervised Learning: K-Means, Principal Component Analysis
 
 ▷ Deep Learning: 
+
 ◦ Image Recognition, Neural Networks (CNN + RNN) , Natural Language Processing
+
 ▷ Data Engineering + Cloud Computing: 
+
 ◦ Google Cloud Platform, MLFlow, Heroku, Streamlit
 
 📫 How to reach me: 
