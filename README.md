@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**DucVanNgo/DucVanNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon
 
-Here are some ideas to get you started:
+Things I can learned so far:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▷ Python
+◦ Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow
+◦ Data Visualisation
+▷ SQL
+▷ Machine Learning: 
+◦ Supervised Learning: Linear Models, Logistic Regression, Support Vector Machines, Stochastic Gradient Descent, Nearest Neighbours, Naive Bayes, Decision Trees, Random Forest, XGBoost 
+◦ Unsupervised Learning: K-Means, Principal Component Analysis
+▷ Deep Learning: 
+◦ Image Recognition, Neural Networks (CNN + RNN) , Natural Language Processing
+▷ Data Engineering + Cloud Computing: 
+◦ Google Cloud Platform, MLFlow, Heroku, Streamlit
+
+📫 How to reach me: 
+
+[LinkedIn]: https://www.linkedin.com/in/ducvanngo/
+
