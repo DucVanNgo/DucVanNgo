@@ -2,7 +2,7 @@
 
 🕵🏻 Currently looking for data analyst / data scientist position in 🇩🇪
 
-🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon
+🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon <br>
 🗂 Have a look at our project: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
 Things I can learned so far:
@@ -27,6 +27,6 @@ Things I can learned so far:
 
 ◦ Google Cloud Platform, MLFlow, Heroku, Streamlit
 
-📫 How to reach me: 
+📫 How to reach me: <br>
 [LinkedIn](https://www.linkedin.com/in/ducvanngo/)
 
