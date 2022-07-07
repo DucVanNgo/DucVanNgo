@@ -18,9 +18,9 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
   </a>
 </p>
 
-##Github stats
+## Github stats
 
-[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo)](https://github.com/ducvanngo)
+[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true)](https://github.com/ducvanngo)
 
 
 
