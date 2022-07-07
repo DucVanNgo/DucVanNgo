@@ -7,6 +7,10 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon <br>
 🗂 Have a look at our project: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/ducvanngo/)
+
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,6 +18,5 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
   </a>
 </p>
 
-📫 How to reach me: <br>
-[LinkedIn](https://www.linkedin.com/in/ducvanngo/)
+
 
