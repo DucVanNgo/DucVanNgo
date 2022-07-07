@@ -1,4 +1,4 @@
-[![ProfileBanner](banner.png)
+![ProfileBanner](banner.png)
 
 
 ### Hi there 👋
