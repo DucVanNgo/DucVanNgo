@@ -1,4 +1,4 @@
-![ProfileBanner](banner.png)
+[![ProfileBanner](banner.png)](https://github.com/ducvanngo)
 
 
 ### Hi there 👋
