@@ -1,3 +1,6 @@
+[ProfileBanner](banner.png)
+
+
 ### Hi there 👋
 
 I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
@@ -12,7 +15,8 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 [LinkedIn](https://www.linkedin.com/in/ducvanngo/)
 
 ## Skills
-<p align="center">
+
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sqlite,tensorflow,html,heroku,git,gcp,docker" />
   </a>
@@ -20,7 +24,4 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Github stats
 
-[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true&theme=radical)](https://github.com/ducvanngo)
-
-
-
+[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true&theme=merko)](https://github.com/ducvanngo)
