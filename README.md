@@ -24,4 +24,4 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Github stats
 
-[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true&theme=merko&bg_color=101e3f)](https://github.com/ducvanngo)
+[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true&theme=merko&bg_color=101e3f&title_color=f78620)](https://github.com/ducvanngo)
