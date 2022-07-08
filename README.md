@@ -19,9 +19,9 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,tensorflow,html,heroku,git,gcp,docker,bash" />
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) <br>
+[![SQLite](
+    <img src=",sqlite,tensorflow,html,heroku,git,gcp,docker,bash" />
   </a>
 </p>
 
