@@ -12,7 +12,7 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Pinned repositories
 
-[![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871)](https://github.com/DucVanNgo/dancemachine-by-871)
+[![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/dancemachine-by-871)
 
 
 ## Connect with me
