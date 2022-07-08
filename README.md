@@ -10,6 +10,11 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon <br>
 🗂 Have a look at our project: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
+## Pinned repositories
+
+[![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871)](https://github.com/DucVanNgo/dancemachine-by-871)
+
+
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DucVanNgo) 
