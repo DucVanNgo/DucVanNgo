@@ -32,4 +32,5 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Github stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducvanngo)
 [![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true&theme=merko&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/ducvanngo)
