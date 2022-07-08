@@ -29,9 +29,6 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
-    <img src=",sqlite,tensorflow,html,heroku,git,gcp,docker,bash" />
-  </a>
-</p>
 
 ## Github stats
 
