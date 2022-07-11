@@ -6,6 +6,7 @@
 I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 🕵🏻 Looking for a position as Data Analyst/Data Scientist: Germany :de: or remote worldwide :earth_africa:
+:sunglasses: 5 years experience in brand management, marketing & consumer understanding. Proven track-record of delivering business growth through analyzing brands and building growth brand plans.
 
 🌱 I’m currently improving my Python & Data Viz skills (Tableau) <br>
 
