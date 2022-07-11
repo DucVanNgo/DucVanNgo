@@ -5,10 +5,11 @@
 
 I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
-🕵🏻 Currently looking for data analyst / data scientist position in 🇩🇪
+🕵🏻 Looking for a position as Data Analyst/Data Scientist: Germany :de: or remote worldwide :earth_africa:
 
-🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon <br>
-🗂 Have a look at our project: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
+🌱 I’m currently improving my Python & Data Viz skills (Tableau) <br>
+
+🗂 As part of LeWagon's data science bootcamp, we have created a video classifier for a TikTok Dance by using a neural network (Tensorflow). Check out the project here: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
 ## Pinned repositories
 
