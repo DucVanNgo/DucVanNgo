@@ -16,6 +16,9 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 [![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/dancemachine-by-871)
 [![MetaCritic Webscrape](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=webscrape-metacritic-videogames&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/webscrape-metacritic-videogames)
+<br>
+
+[![Olist](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=olist&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/olist)
 
 
 
