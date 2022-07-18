@@ -25,10 +25,17 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DucVanNgo) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducvanngo/)  
+Github <br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DucVanNgo) <br>
+
+LinkedIn <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducvanngo/) <br>
+
+Codewars <br>
+[![Codewars](https://www.codewars.com/users/DucNgo/badges/large)](https://www.codewars.com/users/DucNgo) <br>
+
+HackerRank <br>
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/duc10) <br>
-[![Codewars](https://www.codewars.com/users/DucNgo/badges/large)](https://www.codewars.com/users/DucNgo)
 
 ## Skills
 
