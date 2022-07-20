@@ -8,7 +8,7 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 🕵🏻 Looking for a position as Data Analyst/Data Scientist: Germany :de: or remote worldwide :earth_africa: <br>
 :sunglasses: 5 years experience in brand management, marketing & consumer understanding. Proven track-record of delivering business growth through analyzing brands and building growth brand plans.
 
-🌱 I’m currently improving my Python, SQL & Data Viz skills (Tableau) <br>
+🌱 I’m currently honing my Python, SQL & Data Viz skills. <br>
 
 🗂 As part of LeWagon's data science bootcamp, we have created a video classifier for a TikTok Dance by using a neural network (Tensorflow). Check out the project here: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
