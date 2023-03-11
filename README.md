@@ -32,7 +32,7 @@ I'm Duc and currently work as Cloud Developer at [KfW - the world's largest deve
 
 ## Skills
 
-[![MySkills](https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,materialui,azure,html,css,py,sqlite,tensorflow,heroku,git,gcp,docker&perline=5)]
+![MySkills](https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,materialui,azure,html,css,py,sqlite,tensorflow,heroku,git,gcp,docker&perline=8)
 
 ## Github stats
 
