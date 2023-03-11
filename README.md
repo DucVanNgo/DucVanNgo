@@ -2,18 +2,17 @@
 
 ### Hi there 👋
 
-I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
+I'm Duc and currently work as Cloud Developer at [KfW - the world's largest development bank](https://www.kfw.de/kfw.de-2.html)
 
-🕵🏻 Looking for a position as Data Analyst/Data Scientist: Germany :de: or remote worldwide :earth_africa: <br>
+🌱 I’m currently working on my web development skills (Typescript, NextJS & CSS) & Azure. <br>
+
+👨🏻‍🎓 Le Wagon Data Science Bootcamp Graduate <br>
 :sunglasses: 5 years experience in brand management, marketing & consumer understanding. Proven track-record of delivering business growth through analyzing brands and building growth brand plans.
-
-🌱 I’m currently honing my Python, SQL & Data Viz skills. <br>
 
 🗂 As part of LeWagon's data science bootcamp, we have created a video classifier for a TikTok Dance by using a neural network (Tensorflow). Check out the project here: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
 ## Pinned repositories
 
-=======
 [![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/dancemachine-by-871)
 [![MetaCritic Webscrape](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=webscrape-metacritic-videogames&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/webscrape-metacritic-videogames) <br>
 
@@ -31,20 +30,9 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 **Codewars** <br>
 [![Codewars](https://www.codewars.com/users/DucNgo/badges/micro)](https://www.codewars.com/users/DucNgo) <br>
 
-**HackerRank** <br>
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/duc10) <br>
-
 ## Skills
 
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
-[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
-![HTML](https://skillicons.dev/icons?i=html)
-[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
-![Git](https://skillicons.dev/icons?i=git)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-![Bash](https://skillicons.dev/icons?i=bash)
+[![MySkills](https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,materialui,azure,html,css,py,sqlite,tensorflow,heroku,git,gcp,docker&perline=5)]
 
 ## Github stats
 
