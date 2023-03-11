@@ -1,32 +1,70 @@
+[![ProfileBanner](banner.png)](https://github.com/ducvanngo)
+
+
 ### Hi there 👋
 
-🕵🏻 Currently looking for data analyst / data scientist position in 🇩🇪
+I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
-🌱 I’m currently working on improving my Data Science after successfully completing the bootcamp at @LeWagon
+🕵🏻 Looking for a position as Data Analyst/Data Scientist: Germany :de: or remote worldwide :earth_africa: <br>
+:sunglasses: 5 years experience in brand management, marketing & consumer understanding. Proven track-record of delivering business growth through analyzing brands and building growth brand plans.
 
-Things I can learned so far:
+🌱 I’m currently honing my Python, SQL & Data Viz skills. <br>
 
-▷ Python 🐍
+🗂 As part of LeWagon's data science bootcamp, we have created a video classifier for a TikTok Dance by using a neural network (Tensorflow). Check out the project here: [DanceMachine](https://github.com/worldlife92/dancemachine-by-871)
 
-◦ Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow
-◦ Data Visualisation
+## Pinned repositories
 
+<<<<<<< HEAD
 ▷ SQL 🔍
 
 ▷ Machine Learning 🤖
+=======
+[![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/dancemachine-by-871)
+[![MetaCritic Webscrape](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=webscrape-metacritic-videogames&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/webscrape-metacritic-videogames) <br>
 
-◦ Supervised Learning: Linear Models, Logistic Regression, Support Vector Machines, Stochastic Gradient Descent, Nearest Neighbours, Naive Bayes, Decision Trees, Random Forest, XGBoost
-◦ Unsupervised Learning: K-Means, Principal Component Analysis
+[![Olist](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=olist&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/olist)
+[![Tableau Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=tableau_dashboards&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/tableau_dashboards)
+>>>>>>> d5c28fba8d572b67cbb592a040368165e6fb1c09
 
+
+<<<<<<< HEAD
 ▷ Deep Learning 🐋
+=======
+>>>>>>> d5c28fba8d572b67cbb592a040368165e6fb1c09
 
-◦ Image Recognition, Neural Networks (CNN + RNN) , Natural Language Processing
 
-▷ Data Engineering + Cloud Computing: 
+## Connect with me
 
-◦ Google Cloud Platform, MLFlow, Heroku, Streamlit
+**Github** <br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DucVanNgo) <br>
 
-📫 How to reach me: 
+**LinkedIn** <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducvanngo/) <br>
 
+<<<<<<< HEAD
 [LinkedIn]: https://www.linkedin.com/in/ducvanngo/	"LinkedIn"
+=======
+**Codewars** <br>
+[![Codewars](https://www.codewars.com/users/DucNgo/badges/micro)](https://www.codewars.com/users/DucNgo) <br>
+>>>>>>> d5c28fba8d572b67cbb592a040368165e6fb1c09
 
+**HackerRank** <br>
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/duc10) <br>
+
+## Skills
+
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) 
+![HTML](https://skillicons.dev/icons?i=html)
+[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
+![Git](https://skillicons.dev/icons?i=git)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+
+## Github stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducvanngo&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)
+[![DucVanNgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducvanngo&count_private=true&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/ducvanngo)
