@@ -1,6 +1,5 @@
 [![ProfileBanner](banner.png)](https://github.com/ducvanngo)
 
-
 ### Hi there 👋
 
 I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
@@ -14,24 +13,12 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 ## Pinned repositories
 
-<<<<<<< HEAD
-▷ SQL 🔍
-
-▷ Machine Learning 🤖
 =======
 [![DanceMachine](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=dancemachine-by-871&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/dancemachine-by-871)
 [![MetaCritic Webscrape](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=webscrape-metacritic-videogames&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/webscrape-metacritic-videogames) <br>
 
 [![Olist](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=olist&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/olist)
 [![Tableau Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ducvanngo&repo=tableau_dashboards&bg_color=101e3f&title_color=f78620&text_color=FFFFFF)](https://github.com/DucVanNgo/tableau_dashboards)
->>>>>>> d5c28fba8d572b67cbb592a040368165e6fb1c09
-
-
-<<<<<<< HEAD
-▷ Deep Learning 🐋
-=======
->>>>>>> d5c28fba8d572b67cbb592a040368165e6fb1c09
-
 
 ## Connect with me
 
@@ -41,12 +28,8 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 **LinkedIn** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducvanngo/) <br>
 
-<<<<<<< HEAD
-[LinkedIn]: https://www.linkedin.com/in/ducvanngo/	"LinkedIn"
-=======
 **Codewars** <br>
 [![Codewars](https://www.codewars.com/users/DucNgo/badges/micro)](https://www.codewars.com/users/DucNgo) <br>
->>>>>>> d5c28fba8d572b67cbb592a040368165e6fb1c09
 
 **HackerRank** <br>
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/duc10) <br>
@@ -55,14 +38,13 @@ I'm Duc and recently graduated Le Wagon's Data Science Bootcamp
 
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
-[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) 
+[![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
 ![HTML](https://skillicons.dev/icons?i=html)
 [![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
 ![Git](https://skillicons.dev/icons?i=git)
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 ![Bash](https://skillicons.dev/icons?i=bash)
-
 
 ## Github stats
 
