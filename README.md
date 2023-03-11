@@ -11,14 +11,14 @@ Things I can learned so far:
 ◦ Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow
 ◦ Data Visualisation
 
-▷ SQL
+▷ SQL 🔍
 
-▷ Machine Learning: 
+▷ Machine Learning 🤖
 
 ◦ Supervised Learning: Linear Models, Logistic Regression, Support Vector Machines, Stochastic Gradient Descent, Nearest Neighbours, Naive Bayes, Decision Trees, Random Forest, XGBoost
 ◦ Unsupervised Learning: K-Means, Principal Component Analysis
 
-▷ Deep Learning: 
+▷ Deep Learning 🐋
 
 ◦ Image Recognition, Neural Networks (CNN + RNN) , Natural Language Processing
 
@@ -28,5 +28,5 @@ Things I can learned so far:
 
 📫 How to reach me: 
 
-[LinkedIn]: https://www.linkedin.com/in/ducvanngo/
+[LinkedIn]: https://www.linkedin.com/in/ducvanngo/	"LinkedIn"
 
