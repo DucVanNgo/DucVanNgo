@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Duc and currently work as Cloud Developer at [KfW - the world's largest development bank](https://www.kfw.de/kfw.de-2.html)
+I'm Duc and currently work as Software Engineer at [KfW - the world's largest development bank](https://www.kfw.de/kfw.de-2.html)
 
 🌱 I’m currently working on my web development skills (Typescript, NextJS & CSS) & Azure. <br>
 
