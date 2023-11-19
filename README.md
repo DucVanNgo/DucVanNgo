@@ -4,8 +4,6 @@
 
 I'm Duc and currently work as Software Engineer at [KfW - the world's largest development bank](https://www.kfw.de/kfw.de-2.html)
 
-🌱 I’m currently working on my web development skills (Typescript, NextJS & CSS) & Azure. <br>
-
 👨🏻‍🎓 Le Wagon Data Science Bootcamp Graduate <br>
 :sunglasses: 5 years experience in brand management, marketing & consumer understanding. Proven track-record of delivering business growth through analyzing brands and building growth brand plans.
 
